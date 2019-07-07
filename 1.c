@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<math.h>
+#include<conio.h>
 int z=0,j=0;
 
 struct question{
